@@ -63,7 +63,7 @@ And the Automatic tool did not detected any copyright check even though I am upl
 
 This video was uploaded December 10th 10:06 PM https://www.tiktok.com/@user78163605067817/video/7582446820970810637
 
-**At December 12 01:05AM, more tha 36 hours after the first upload TikTok has not flagged any of the videos for Copyright Infringment.**
+**At December 12, 03:05 PM, More than 48 hours after the first upload, TikTok has not flagged any of the videos for Copyright Infringment.**
 
 #### 3. AI-Generated Content Investigation
 
