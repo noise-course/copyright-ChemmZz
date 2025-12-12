@@ -42,17 +42,28 @@ Before even uploading anything, TikTok prompts me to enable automatic music copy
 
 For this excersise I did not enable this feature. Only (because I had to) the Content check lite, which automatically checks the content against the Community Guidelines.
 
-The shortclip (5 seconds) was updated on Wednesday December 10th at 12:45 pm.
+The shortclip (5 seconds) was updated on Wednesday December 10th at 12:45 pm. https://www.tiktok.com/@user78163605067817/video/7582302074931612983
 
 The longclip (1:07 minutes) was updated on Wednesday December 10th at 1:22 pm.
+https://www.tiktok.com/@user78163605067817/video/7582311650963836215
 
 
 - **Educational use**: I trim the longclip and added some educational images to talk about the story and powers of the superhero fighting (Mister Terrific). The original audi stayed but I transformed the videoclip by adding textblock images talking about the character. Educating people on what they are seeing.
 
-This video was uploaded on Wednesday December 10th at 7:56 p.m
+This video was uploaded on Wednesday December 10th at 7:54 p.m
+https://www.tiktok.com/@user78163605067817/video/7582412875390651703
 
 
 ![ss_proof_uploaded](screenshots/uploaded_proof_ss.png)
+
+By end of day neither of my copyright material had been flagged so I tried uploading a 40 second clip with the Automatic Music copyright check enable to see if that would catch the copyrighted music in the movie scence![Auto_check_enable](screenshots/enable_auto_check.png)
+
+And the Automatic tool did not detected any copyright check even though I am uploading a video with a song that I don't have the rights to use.
+![](screenshots/automusic_uploaded.png)
+
+This video was uploaded December 10th 10:06 PM https://www.tiktok.com/@user78163605067817/video/7582446820970810637
+
+**At December 12 01:05AM, more tha 36 hours after the first upload TikTok has not flagged any of the videos for Copyright Infringment.**
 
 #### 3. AI-Generated Content Investigation
 
@@ -114,65 +125,71 @@ Once again I have to apologize for the cringe song:
 
 Apply what you've learned about copyright law to your experiments:
 
-- **Fair Use Four Factors**: For each of your fair use experiments (Task 2), analyze how it performs under the four fair use factors:
-  1. Purpose and character of the use (transformative? commercial?)
-  2. Nature of the copyrighted work (creative vs. factual?)
-  3. Amount and substantiality used
-  4. Effect on the market for the original
+- **Fair Use Four Factors**: 
 
-- **Gap Analysis**: Discuss any gaps you observed (if any) between:
-  - Legal theory (what copyright law says)
-  - Platform policy (what the platform claims to do)
-  - Actual enforcement (what actually happened)
+    Video 1 - Raw Short Clip: 
 
+    (1) *Purpose and character of the use (transformative? commercial?).* 
+    This factor weighs strongly against fair use. The clip is a direct reproduction showing the same content for the same purpose (entertainment). There is no commentary, criticism, parody, or any new meaning added. While the use is non-commercial, which helps slightly, non-commercial use alone doesn't make something fair use.
 
-### Deliverables
+    (2) *Nature of the copyrighted work (creative vs. factual?)*
+    This factor weighs against fair use. Any movie has significant artistic expression in cinematography, choreography, visual effects, and original score. Copyright protection is strongest for creative works like this compared to factual works like news footage or documentaries.
+    
+    (3) *Amount and substantiality used.*
+    This factor is mixed. Quantitatively, 5 seconds is a tiny fraction of a feature film which helps. However, qualitatively, a climactic fight scene with signature music may represent "the heart" of the work. Courts have found infringement even for short clips when they capture the most valuable or memorable portions.
+    
+    
+    (4) *Effect on the market for the original.*
+    This factor weighs against fair use. The clip could substitute for licensed promotional materials or clip licensing. Studios monetize memorable scenes through official channels. While 5 seconds likely won't replace ticket sales, it contributes to a broader ecosystem where unauthorized clips circulate freely, potentially harming the market for authorized uses.
 
-Submit a markdown file (with embedded screenshots and links) containing:
+    Video 2 - Raw Long Clip: 
 
-1. **Platform Analysis**: Description of your chosen platform's copyright policies and mechanisms
+    (1) *Purpose and character of the use (transformative? commercial?)*
+    This factor weighs strongly against fair use. Identical analysis to Video 1.
 
-2. **Fair Use Experiments**: For each of your 2+ experiments:
-   - Description of what you uploaded
-   - Screenshots and documentation
-   - What happened (timeline and outcome)
+    (2) *Nature of the copyrighted work (creative vs. factual?)*
+    This factor weighs against fair use. Same as analysis as Video 1.
+    
+    (3) *Amount and substantiality used*
+    This factor weighs against fair use. Quantitatively, 1:07 is substantially more than the 5 second clip. While still a small percentage of a full film, it's a meaningful excerpt. Qualitatively, a full minute of a fight scene almost certainly captures significant creative expressions. This is enough to deliver substantial entertainment value independent of the full film.
+    
+    (4) *Effect on the market for the original*
+    This factor weighs more strongly against fair use than Video 1. A 67 second action sequence provides significant standalone entertainment value. This directly competes with official clip releases, trailers, and licensed content. Viewers may feel less urgency to see the film if key action sequences are freely available. The longer duration increases potential market harm.
 
-3. **AI Content Investigation**: For each of your 2+ experiments:
-   - AI tool used and prompt
-   - Screenshots of generated content and upload
-   - Platform response
-   - Research findings on copyright ownership and policies
+    Video 3 - Educational Video with Voiceover and Text: 
 
-4. **Legal Analysis**:
-   - Application of fair use factors to your experiments
-   - Discussion of gaps between law, policy, and practice (if any)
+    (1) *Purpose and character of the use (transformative? commercial?)*
+    This factor weighs in favor of fair use. The video is transformative to a meaningful degree since the purpose changed from entertainment to education. A voiceover commentary provides context not in the original, text overlays explain the character's comic book origins, and the audience's experience shifted from "watching a fight" to "learning about a superhero." The use is non-commercial which supports fair use. The film shows Mister Terrific in action while this video teaches viewers who he is. This is the kind of new purpose courts recognize as transformative.
 
-5. **Appendix**:
-   - All screenshots
-   - Links to uploaded content (if still available)
-   - Timestamps of uploads and detection
+    (2) *Nature of the copyrighted work (creative vs. factual?)*
+    This factor weighs against fair use. The source material remains a creative fictional film. This factor is inherent to the original work. However, this factor is often less decisive when strong transformation exists.
 
-### Submission Instructions
+    (3) *Amount and substantiality used*
+    This factor weighs in favor of fair use. The clip was trimmed rather than using the full 67-second version. The editing shows only what was necessary to illustrate the educational points. Courts favor defendants who demonstrate restraint and take only what their transformative purpose requires. The voiceover and text overlays mean the clip functions as illustration for the commentary rather than as standalone entertainment.
+    
+    (4) *Effect on the market for the original*
+    This factor weighs in favor of fair use. The video serves a different market, people wanting to learn about Mister Terrific's backstory. It doesn't substitute for watching the film or purchasing official content. Educational content about comic book characters doesn't compete with theatrical releases. If anything, it might drive interest in seeing the film.
+    
+    Although I have to mention that the original copyrighted music remains in the video without any commentary on the music itself. This creates a secondary infringement issue separate from the video footage.
 
-Push your completed assignment to your private GitHub repository. Your submission should include:
+    Video 4 - 40 second clip with Auto-Check enabled: 
 
-1. A markdown writeup (`copyright-report.md`) with your analysis and embedded screenshots
-2. A folder containing all screenshots and supporting materials
+    (1) *Purpose and character of the use (transformative? commercial?)*
+    This factor weighs strongly against fair use. Identical to Videos 1 and 2 is a pure reproduction with no transformation.
+    
+    (2) *Nature of the copyrighted work (creative vs. factual?)*
+    This factor weighs against fair use. Same as all other videos, highly creative work with strong copyright protection.
+    
+    (3) *Amount and substantiality used*
+    This factor weighs against fair use. 40 seconds falls between the other raw clips. It's substantial enough to deliver meaningful entertainment value from the fight scene and music, and likely captures qualitatively significant portions of the creative expression.
+    
+    (4) *Effect on the market for the original*
+    This factor weighs against fair use. Same analysis as Videos 1 and 2, competes with licensed clips and official content distribution.
 
-### Resources
+- **Gap Analysis**:
 
-- [U.S. Copyright Office - Fair Use Index](https://www.copyright.gov/fair-use/)
-- [Stanford Copyright & Fair Use Center](https://fairuse.stanford.edu/)
-- [YouTube Copyright Center](https://www.youtube.com/howyoutubeworks/policies/copyright/)
-- [EFF - Fair Use and Copyright](https://www.eff.org/issues/intellectual-property/fair-use-and-copyright)
-- Platform-specific copyright documentation for your chosen platform
+    More than day and a half has past and my videos are still up, revealling the practical reality of copyright enforcement. The law provides strong rights, but enforcement depends entirely on rights holders actively monitoring platforms, detection systems being comprehensive, and someone choosing to file a complaint.
 
-### Academic Integrity Note
+    The Superman clips are technically infringing (assuming no fair use defense), but without detection or a complaint, nothing happens. This creates a de facto "enforcement lottery" where identical content might be removed from one account but stay up indefinitely on another, depending on timing and detection quirks.
 
-This assignment involves creating and uploading content that may be flagged or removed. This is done for educational purposes to understand copyright enforcement. 
-
-Do not:
-- Use this assignment as an excuse to upload infringing content
-- Attempt to profit from any uploaded content
-- Violate platform terms of service beyond what's necessary for the educational experiment
-- Upload content that could get your account permanently banned
+    Also I've been thinking if new content is harder to detect. Using a 2025 film may have avoided detection simply because the content isn't yet in reference databases, a timing-based loophole rather than a legal one.
